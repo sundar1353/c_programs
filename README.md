@@ -1,2 +1,2 @@
 # c_programs
-sample c programs
+## sample c programs
